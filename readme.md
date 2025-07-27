@@ -4,17 +4,17 @@ This is a simple and responsive temperature converter built with **HTML**, **CSS
 
 ---
 
-## 🔧 Features
+##  Features
 
-- ✅ Convert between Celsius, Fahrenheit, and Kelvin
-- ✅ Simple, user-friendly interface
-- ✅ Fully responsive design
-- ✅ Lightweight – no frameworks used
+- Convert between Celsius, Fahrenheit, and Kelvin
+-  Simple, user-friendly interface
+- Fully responsive design
+-  Lightweight – no frameworks used
 
 ---
 
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Download or Clone the Repository**
    ```bash
